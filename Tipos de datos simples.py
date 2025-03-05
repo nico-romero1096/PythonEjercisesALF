@@ -98,5 +98,12 @@
 
 #Ejercicio 12
 
-
+# barras_vendidas = int(input("Numero de barras vendidas que no son frescas: "))
+# precio = 3.49
+# descuento = 0.6
+# # costo_total = (precio-(precio*0.6))*barras_vendidas -> Tambien se puede de esta forma
+# costo_total = barras_vendidas * precio * (1 - descuento)
+# print(f"Precio habitual: {precio} $")
+# print(f"Descuento sobre barra no fresca: {decuento*100} %")
+# print(f"Costo total: {round(costo_total, 2)} $")
 
